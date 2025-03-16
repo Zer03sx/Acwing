@@ -10,7 +10,7 @@ int func(int n)
 	return func(n - 1) + func(n - 2);
 }
 
-int main()
+int main0()
 {
 	int n;
 	cin >> n;

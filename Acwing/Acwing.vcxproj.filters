@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01_二分.cpp">
+    <ClCompile Include="01_快排.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01_第k个数_快排题目.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
